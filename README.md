@@ -84,13 +84,13 @@ Ahora Otra Opcion para clonar el repositorio
 3. Puedes buscar el repositorio si está en tu cuenta o pegar la `URL del repositorio`.
 - esta es la URL: https://github.com/Exequiel-Alvarado/Prueba-tecnica-pt1.git
 
-![alt text](/assetsimage-2.png)
+![alt text](/assets/image-2.png)
 
 4. Elige la carpeta de destino donde se guardará el repositorio en tu computador.
 Haz `click en Clone`.
 5. Luego acceder a `Visual Etudio Code`
 
-![alt text](/assetsimage-3.png)
+![alt text](/assets/image-3.png)
 
 **Paso a seguir para en VS Code**
 1. en terminal selecionamos `bash`
