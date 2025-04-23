@@ -54,8 +54,8 @@ Transformar el código de la landing en la base de un theme funcional en WordPre
 **Deben tener instalado lo siguiente**
 
 
-- `Node.js `- Instarlarlo de manera global .
-- `npm `- para ejecutar comando dentro del terminal.
+
+
 - `Visual Estudio Code `- Herramienta para ejecutar el proyecto.
 - `Git `- Para ocupar la terminal.
 - `Githud Desktop `- para poder Clonar la rama. 
@@ -93,15 +93,10 @@ Haz `click en Clone`.
 ![alt text](/assets/image-3.png)
 
 **Paso a seguir para en VS Code**
-1. en terminal selecionamos `bash`
-2. ejecutamos el siguiente comando
-```bash
-npm install
-```
-3. para correrlo en la misma terminal ejecutamos el siguiente comando
-```bash
-npm run dev
-```
-4. hacemos clip en donde dice `http://localhost:3000` se abrira el Leandin Page.
+1. en terminal selecionamos `live server` si no tienes la extension de vs code debes instarla
+
+2. hacemos clip en `index.html` se abrira el Leandin Page.
+
+![alt text](/assets/image-4.png)
 
 
