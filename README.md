@@ -1,6 +1,6 @@
 # Prueba Técnica `Parte 1`
 
-![alt text](image.png)
+![alt text](/assets/image.png)
 
 ## Desarrollo FrontEnd + Adaptacipon Wordpress
 
